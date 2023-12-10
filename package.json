@@ -45,5 +45,8 @@
     "eslint": "^8.50.0",
     "semantic-release": "^22.0.10"
   },
-  "homepage": "https://elizaveta83.github.io/test-repository/"
+  "homepage": "https://elizaveta83.github.io/test-repository/",
+  "repository": {
+    "url": "https://github.com/elizaveta83/test-repository"
+    }
 }
